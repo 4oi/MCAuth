@@ -1,0 +1,8 @@
+name: MCAuth
+version: 1.0
+main: jp.llv.mcauth.MCAuth
+description: In-game authentication plugin
+author: toyblocks
+commands:
+    auth:
+      usage: /auth - to generate an auth code
