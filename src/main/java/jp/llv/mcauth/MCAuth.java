@@ -33,7 +33,7 @@ public class MCAuth extends JavaPlugin {
         'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z',
         'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'J', 'K', 'L', 'M', 'N', 'P',
         'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z',};
-    private static final String PREFIX = ChatColor.GRAY + "[" + ChatColor.GOLD + "pJaupi" + ChatColor.GRAY + "] " + ChatColor.RESET;
+    private static final String PREFIX = ChatColor.GRAY + "[" + ChatColor.GOLD + "Auth" + ChatColor.GRAY + "] " + ChatColor.RESET;
 
     @Override
     public void onEnable() {
